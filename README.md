@@ -8,7 +8,8 @@
 
 * 🎓 Computer Engineering Student (CGPA: 9.41)
 * 💡 Passionate about building real-world web applications
-* 🧠 Solved 250+ DSA problems on LeetCode & GFG
+* 🧠 Solved **350+ DSA problems** on LeetCode & GFG
+* 🔥 Maintaining a **consistent LeetCode streak**
 * 🚀 Interested in Full Stack Development & System Design
 
 ---
@@ -61,7 +62,8 @@
 
 ## 🏆 Achievements
 
-* 🧠 Solved 250+ DSA problems (LeetCode, GFG)
+* 🧠 Solved **350+ DSA problems** (LeetCode, GFG)
+* 🔥 Consistent **LeetCode daily streak**
 * 🎓 Cummins Scholarship Awardee
 * 🚀 Smart India Hackathon (SIH) – College Level Selection
 
