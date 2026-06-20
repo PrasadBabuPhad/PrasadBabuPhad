@@ -8,7 +8,7 @@
 
 * 🎓 Computer Engineering Student (CGPA: 9.41)
 * 💡 Passionate about building real-world web applications
-* 🧠 Solved **350+ DSA problems** on LeetCode & GFG
+* 🧠 Solved **450+ DSA problems** on LeetCode & GFG
 * 🔥 Maintaining a **consistent LeetCode streak**
 * 🚀 Interested in Full Stack Development & System Design
 
