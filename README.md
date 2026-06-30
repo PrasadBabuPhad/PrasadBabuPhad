@@ -1,154 +1,65 @@
 # Hi, I'm Prasad Phad 👋
 
-🚀 Full Stack Developer | Problem Solver | Backend Enthusiast | System Design Learner
+🚀 Full Stack Developer | Backend Enthusiast | Problem Solver | System Design Learner
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering Student (CGPA: 9.41)
-- 💡 Passionate about building scalable real-world web applications
-- 🧠 Solved 450+ Data Structures & Algorithms problems (LeetCode & GFG)
-- 🔥 Consistent LeetCode problem solver with daily streak
-- 🚀 Interested in Full Stack Development, Backend Systems & System Design
+🎓 Computer Engineering Student (CGPA: 9.41)  
+🧠 450+ DSA Problems (LeetCode & GFG)  
+🔥 Consistent problem solver  
+💡 Focus: Full Stack, Backend Systems, System Design  
 
 ---
 
-## ⚒️ Tech Stack & Tools
+## ⚒️ Tech Stack
 
-### 👨‍💻 Programming Languages
-C • C++ • Java • JavaScript
+💻 Languages: C • C++ • Java • JavaScript  
 
----
+🎨 Frontend: HTML • CSS • Tailwind  
 
-### 🌐 Frontend
-HTML5 • CSS3 • Tailwind CSS • JavaScript
+⚙️ Backend: Node.js • Express • REST API • JWT • WebSockets  
 
----
+🗄️ Database: MySQL • MongoDB • Redis  
 
-### 🧠 Backend & APIs
-Node.js • Express.js  
-REST APIs • JWT Authentication  
-WebSockets (Real-time Communication)
+🧰 Tools: Git • GitHub • Postman • VS Code  
+
+☁️ Cloud: AWS (EC2 • S3 • IAM) • Docker  
 
 ---
 
-### 🗄️ Databases
-MySQL • MongoDB • Redis (Caching & Session Management)
+## 📂 Projects
 
----
+🔍 GitHub User Finder – Search GitHub profiles using API  
 
-### 🔧 Developer Tools
-Git • GitHub • Postman • VS Code
+🧠 Web Scanner – Security scanner that detects basic website info & vulnerabilities (headers, ports, metadata)  
 
----
-
-### ⚡ System & Architecture Concepts
-JWT Authentication (Access & Refresh Tokens)  
-Redis Caching & Pub/Sub  
-WebSockets (Real-time Data Flow)
-
----
-
-### ☁️ Cloud & DevOps (Basic Experience)
-AWS (EC2 • S3 • IAM)  
-Docker • CI/CD (GitHub Actions)
-
----
-
-## 📂 Featured Projects
-
-### 🔍 GitHub User Finder
-- Search GitHub users using GitHub REST API  
-- Displays profile info dynamically  
-- Handles errors and loading states  
-- Responsive UI design  
-
-**Tech Stack:** HTML • CSS • JavaScript • REST API  
-
----
-
-### 🔮 Astrologer Insights
-- Zodiac-based dynamic astrology content website  
-- Clean UI with interactive sections  
-- Responsive across all devices  
-
-**Tech Stack:** HTML • CSS • JavaScript  
-
----
-
-### 🌐 Portfolio Website
-- Personal developer portfolio  
-- Responsive and modern UI  
-- Showcases skills and projects  
-
-**Tech Stack:** HTML • Tailwind CSS • JavaScript  
-
----
-
-## 💡 Core Skills
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- REST API Development  
-- Backend System Design Basics  
-- Database Design & Optimization  
-- Authentication & Authorization  
-- Debugging & Problem Solving  
-- Git Version Control  
+🌐 Portfolio Website – Personal responsive developer portfolio  
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Solved 450+ DSA Problems  
-- 🔥 Active LeetCode Streak  
-- 🎓 Cummins Scholarship Awardee  
-- 🚀 Smart India Hackathon (College Level Selection)  
-- 📚 CGPA: 9.41  
-
----
-
-## 🎯 Leadership & Activities
-
-- NSS Coordinator  
-  - Managed college-level events  
-  - Team coordination & leadership  
-
-- IEEE Student Member  
-  - Participated in technical workshops  
-  - Networking with engineers & developers  
+🏅 450+ DSA Problems Solved  
+🔥 Active LeetCode Streak  
+🎓 Cummins Scholarship Awardee  
+🚀 Smart India Hackathon (College Level Selection)  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Backend Development  
-- System Design Fundamentals  
-- AWS Cloud (EC2, S3, IAM)  
-- Docker & Containerization  
-- Scalable Web Architectures  
+⚡ System Design • AWS • Docker • Advanced Backend  
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasadBabuPhad&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBabuPhad&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrasadBabuPhad&theme=tokyonight)
+🔗 LinkedIn: linkedin.com/in/prasad-phad-41aa962a3  
+💻 GitHub: github.com/PrasadBabuPhad  
+🏆 LeetCode: leetcode.com/u/Prasad123__  
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad%20Phad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasad-phad-41aa962a3)
-
-[![GitHub](https://img.shields.io/badge/GitHub-PrasadBabuPhad-black?style=for-the-badge&logo=github)](https://github.com/PrasadBabuPhad)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Prasad123__-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Prasad123__/)
-
----
-
-⭐ "Consistency beats intensity. Keep building."
+⭐ Consistency beats intensity.
